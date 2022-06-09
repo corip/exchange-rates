@@ -1,0 +1,1 @@
+INSERT INTO exchange_rates (origin_currency,final_currency,date,value) VALUES ('PEN','EUR','2022-06-09','3.98');
